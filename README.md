@@ -30,12 +30,12 @@ Clone the repo and install dependencies:<br />
 git clone [https://github.com/yourusername/medcycle.git](https://github.com/Rizwan102003/MedExchange.git)<br />
 cd MedExchange<br />
 npm install<br />
-npm start<br />
+npm start
 <br />
 <br />
 👥 TEAM MEMBERS:<br />
 Sk Md Rizwan<br />
-Deepshikha Dutta<br />
+Deepshikha Dutta
 <br />
 <br />
 📄 LICENSE:<br />
